@@ -11,9 +11,9 @@
     "hot",
     "reload"
   ],
-  "homepage": "https://github.com/electron-react-boilerplate/electron-react-boilerplate#readme",
+  "homepage": "https://github.com/sajibasm/tracker_desktop.git#readme",
   "bugs": {
-    "url": "https://github.com/electron-react-boilerplate/electron-react-boilerplate/issues"
+    "url": "https://github.com/sajibasm/tracker_desktop.git/issues"
   },
   "repository": {
     "type": "git",
@@ -22,14 +22,14 @@
   "license": "MIT",
   "author": {
     "name": "Electron React Boilerplate Maintainers",
-    "email": "electronreactboilerplate@gmail.com",
-    "url": "https://electron-react-boilerplate.js.org"
+    "email": "sajib.cse03@gmail.com",
+    "url": "https://github.com/sajibasm/tracker_desktop.git"
   },
   "contributors": [
     {
-      "name": "Amila Welihinda",
-      "email": "amilajack@gmail.com",
-      "url": "https://github.com/amilajack"
+      "name": "ASM Sajib",
+      "email": "sajib.cse03@gmail.com",
+      "url": "https://github.com/sajibasm"
     }
   ],
   "main": "./src/main/main.ts",
